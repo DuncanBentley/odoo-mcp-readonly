@@ -28,7 +28,7 @@ Example questions: "How many open quotations do we have?", "Show me the last 10 
 4. Search for "MCP Connector Read-only" and click Install.
 
 ```bash
-git clone --branch 19.0 --single-branch https://github.com/<your-account>/odoo-mcp-readonly.git
+git clone --branch 19.0 --single-branch https://github.com/DuncanBentley/odoo-mcp-readonly.git
 ```
 
 ## Connect your AI client
