@@ -15,7 +15,6 @@
         'views/config_views.xml',
     ],
     'images': ['static/description/main_screenshot.png'],
-    'support': 'duncanmarcbentley@gmail.com',
     'installable': True,
     'application': False,
 }
